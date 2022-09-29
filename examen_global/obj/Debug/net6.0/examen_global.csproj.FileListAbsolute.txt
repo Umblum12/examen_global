@@ -1,0 +1,15 @@
+C:\Users\abela\source\repos\examen_global\examen_global\bin\Debug\net6.0\examen_global.exe
+C:\Users\abela\source\repos\examen_global\examen_global\bin\Debug\net6.0\examen_global.deps.json
+C:\Users\abela\source\repos\examen_global\examen_global\bin\Debug\net6.0\examen_global.runtimeconfig.json
+C:\Users\abela\source\repos\examen_global\examen_global\bin\Debug\net6.0\examen_global.dll
+C:\Users\abela\source\repos\examen_global\examen_global\bin\Debug\net6.0\examen_global.pdb
+C:\Users\abela\source\repos\examen_global\examen_global\obj\Debug\net6.0\examen_global.csproj.AssemblyReference.cache
+C:\Users\abela\source\repos\examen_global\examen_global\obj\Debug\net6.0\examen_global.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abela\source\repos\examen_global\examen_global\obj\Debug\net6.0\examen_global.AssemblyInfoInputs.cache
+C:\Users\abela\source\repos\examen_global\examen_global\obj\Debug\net6.0\examen_global.AssemblyInfo.cs
+C:\Users\abela\source\repos\examen_global\examen_global\obj\Debug\net6.0\examen_global.csproj.CoreCompileInputs.cache
+C:\Users\abela\source\repos\examen_global\examen_global\obj\Debug\net6.0\examen_global.dll
+C:\Users\abela\source\repos\examen_global\examen_global\obj\Debug\net6.0\refint\examen_global.dll
+C:\Users\abela\source\repos\examen_global\examen_global\obj\Debug\net6.0\examen_global.pdb
+C:\Users\abela\source\repos\examen_global\examen_global\obj\Debug\net6.0\examen_global.genruntimeconfig.cache
+C:\Users\abela\source\repos\examen_global\examen_global\obj\Debug\net6.0\ref\examen_global.dll
